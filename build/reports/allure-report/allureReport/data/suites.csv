@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jan 05 23:09:09 ALMT 2023","Thu Jan 05 23:09:39 ALMT 2023","29643","","demoqa.tests.AutomationPracticeFormTests","","demoqa.tests.AutomationPracticeFormTests","firstTest","firstTest()",""

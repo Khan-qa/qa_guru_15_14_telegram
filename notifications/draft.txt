@@ -1,0 +1,9 @@
+Khan_quru_bot
+5645033211:AAG1lztOqkr65Wq35tqrJ0NL47zPSW-3YfY
+-1001663072973
+
+https://api.telegram.org/bot5645033211:AAG1lztOqkr65Wq35tqrJ0NL47zPSW-3YfY/getUpdates
+
+curl -X POST -H 'Content-Type: application/json' -d '{"chat_id": "-1001663072973", "text": "My BOT", "disable_notification": true}' https://api.telegram.org/bot5645033211:AAG1lztOqkr65Wq35tqrJ0NL47zPSW-3YfY/sendMessage
+
+java -DconfigFile=notifications/telegram.json -jar notifications/allure-notifications-4.2.1.jar

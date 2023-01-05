@@ -1,0 +1,4 @@
+[2023-01-05T17:09:31.097Z] [WARNING] https://cdn.ampproject.org/rtv/012211060024000/v0/amp-ad-exit-0.1.mjs 1 Unrecognized feature: 'attribution-reporting'.
+[2023-01-05T17:09:31.098Z] [WARNING] https://cdn.ampproject.org/rtv/012211060024000/v0/amp-ad-exit-0.1.mjs 1 Unrecognized feature: 'attribution-reporting'.
+[2023-01-05T17:09:31.587Z] [WARNING] https://cdn.ampproject.org/rtv/022211060024000/v0/amp-ad-exit-0.1.mjs 1 Unrecognized feature: 'attribution-reporting'.
+[2023-01-05T17:09:33.947Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 402:154 Uncaught TypeError: l(...).setup is not a function
